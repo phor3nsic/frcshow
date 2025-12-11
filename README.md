@@ -1,5 +1,5 @@
 <div align="center" id="top">
-<img src="https://lh3.googleusercontent.com/gg/AIJ2gl_V8_3PVx8CuJOBw_ScHJ2P3YFBe6ZvN-vOt2phtXKdUAagmT-qcux8MC7EZkpmIUOX7tLCdsuxcZDJGIZx6-OK1eI5_fg713wcC6b3MtLCNEmZvVD4cUWbTqjPK0Q9mcReLaluIiNokW2XvgE4ZS0fctLumBI2vSYEx7_qagMw92hQOAYh=s1024-rj-mp2" alt=frcShow width=228px>
+<img src="assets/firebaseimage.png" alt=frcShow width=228px>
 </div>
 
 ## 
