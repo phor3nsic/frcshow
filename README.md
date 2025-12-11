@@ -36,3 +36,9 @@ Try to get data of this project:
 ```sh
 frcshow --project_id 923626523156 --key YOURVALIDKEY
 ```
+
+Or you can found by name:
+
+```sh
+frcshow --project_id weluproject --key YOURVALIDKEY
+```
